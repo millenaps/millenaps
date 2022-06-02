@@ -1,0 +1,5 @@
+-#sobre mim 
+- 
+- 👋 ola ,meu nome é @millenaps
+- 👀 eu sou interessada em medicina
+- 🌱 estou aprendendo a programar recentemente a linguagem de JavaScript e scratch
